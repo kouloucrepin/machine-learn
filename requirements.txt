@@ -8,4 +8,5 @@ scipy
 wordcloud
 numpy
 warnings
+scikit-learn
 seaborn
