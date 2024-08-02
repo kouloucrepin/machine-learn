@@ -1,0 +1,9 @@
+pandas
+plotly
+matplotlib
+scipy
+wordcloud
+numpy
+sklearn
+warnings
+seaborn
