@@ -8,8 +8,6 @@ from sklearn.compose import ColumnTransformer
 from sklearn.preprocessing import StandardScaler, OneHotEncoder
 from sklearn.pipeline import Pipeline
 from sklearn.linear_model import LogisticRegression
-import warnings
-warnings.filterwarnings("ignore")
 from sklearn.metrics import roc_curve, roc_auc_score,confusion_matrix
 import seaborn as sns
 import scipy.stats as sct
