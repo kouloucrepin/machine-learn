@@ -6,6 +6,6 @@ matplotlib
 scipy
 wordcloud
 numpy
-sklearn
+scikit-learn
 warnings
 seaborn
