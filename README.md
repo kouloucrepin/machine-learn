@@ -1,7 +1,7 @@
 ## Description du Projet : Analyse du Churn des Clients avec Machine Learning et Streamlit
 
-kaggle.com
-<img src="download.jpg" alt="Image de téléchargement" width="300" height="200">
+kaggle.com <br>
+<img src="download.jpg" alt="Image de téléchargement" width="900" height="400">
 ### 1. Introduction
 
 Le churn, ou attrition des clients, est un enjeu majeur pour de nombreuses entreprises, car il impacte directement la rentabilité et la croissance. Ce projet vise à analyser les raisons du churn des clients en utilisant des techniques de machine learning et des visualisations interactives via Streamlit. L'objectif est de fournir des insights exploitables pour aider les entreprises à réduire le taux de churn et à améliorer la satisfaction client.
